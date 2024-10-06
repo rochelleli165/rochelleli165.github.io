@@ -34,10 +34,10 @@ Submitted for Databricks GenAI Hackathon
 
 [View More Projects](projects.md)
 ## Contact
-| Type         | Contact           |
-|:-------------|:------------------|
-| school email | rli484@wisc.edu |
-| personal email | rochelleli165@gmail.com   |
-| linkedin        | https://www.linkedin.com/in/rochelle-li-a93608237/    |
-| github          |  https://github.com/rochelleli165 |
+| Type           | Contact                                               |
+|:---------------|:------------------------------------------------------|
+| school email   | rli484@wisc.edu                                       |
+| personal email | rochelleli165@gmail.com                               |
+| linkedin       | https://www.linkedin.com/in/rochelle-li-a93608237/    |
+| github         |  https://github.com/rochelleli165                     |
 
